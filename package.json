@@ -1,0 +1,20 @@
+{
+  "name": "linguagem-ltda",
+  "version": "1.0.0",
+  "description": "Nesse exercício é pedido para escrever uma função que recebe um array e ela retorne um novo array com todas as posições invertidas do original sem altera-lo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nykcasseano/Linguagem-Ltda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nykcasseano/Linguagem-Ltda/issues"
+  },
+  "homepage": "https://github.com/nykcasseano/Linguagem-Ltda#readme"
+}
